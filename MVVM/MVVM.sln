@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM", "MVVM.csproj", "{D76826F7-A05C-4344-92CE-0BE3DB4782C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "..\ViewModels\ViewModels.csproj", "{53811A99-69FC-4D1F-B0F1-98E247D72CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModels", "..\ViewModels\ViewModels.csproj", "{53811A99-69FC-4D1F-B0F1-98E247D72CB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "..\Utility\Utility.csproj", "{B959D413-CC7B-4CE1-B594-A02168F1CADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "..\Utility\Utility.csproj", "{B959D413-CC7B-4CE1-B594-A02168F1CADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "..\DataModels\DataModels.csproj", "{18B88562-4B19-44F9-AD77-57E939491683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModels", "..\DataModels\DataModels.csproj", "{18B88562-4B19-44F9-AD77-57E939491683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataViews", "..\DataViews\DataViews.csproj", "{717A69C8-34AE-421F-A3FC-53531180C73E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{18B88562-4B19-44F9-AD77-57E939491683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18B88562-4B19-44F9-AD77-57E939491683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18B88562-4B19-44F9-AD77-57E939491683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717A69C8-34AE-421F-A3FC-53531180C73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717A69C8-34AE-421F-A3FC-53531180C73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717A69C8-34AE-421F-A3FC-53531180C73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717A69C8-34AE-421F-A3FC-53531180C73E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
