@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net.NetworkInformation;
-using System.Text;
-using System.Windows.Input;
+﻿using System.Windows.Input;
 using Utility;
-using System.Windows;
 
 namespace ViewModels
 {
@@ -24,7 +19,7 @@ namespace ViewModels
         }
         public void showData()
         {
-            MessageBox.Show(Text);
+           
         }
 
     }
