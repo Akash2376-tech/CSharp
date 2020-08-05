@@ -7,3 +7,6 @@ D:\GitHub\CSharp\ViewModels\obj\Debug\netstandard2.0\ViewModels.AssemblyInfo.cs
 D:\GitHub\CSharp\ViewModels\obj\Debug\netstandard2.0\ViewModels.csproj.CoreCompileInputs.cache
 D:\GitHub\CSharp\ViewModels\obj\Debug\netstandard2.0\ViewModels.dll
 D:\GitHub\CSharp\ViewModels\obj\Debug\netstandard2.0\ViewModels.pdb
+D:\GitHub\CSharp\ViewModels\bin\Debug\netstandard2.0\Utility.dll
+D:\GitHub\CSharp\ViewModels\bin\Debug\netstandard2.0\Utility.pdb
+D:\GitHub\CSharp\ViewModels\obj\Debug\netstandard2.0\ViewModels.csproj.CopyComplete

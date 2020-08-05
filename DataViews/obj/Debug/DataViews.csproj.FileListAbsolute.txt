@@ -16,3 +16,5 @@ D:\GitHub\CSharp\DataViews\obj\Debug\DataViews.csproj.CoreCompileInputs.cache
 D:\GitHub\CSharp\DataViews\obj\Debug\DataViews.csproj.CopyComplete
 D:\GitHub\CSharp\DataViews\obj\Debug\DataViews.dll
 D:\GitHub\CSharp\DataViews\obj\Debug\DataViews.pdb
+D:\GitHub\CSharp\DataViews\bin\Debug\Utility.dll
+D:\GitHub\CSharp\DataViews\bin\Debug\Utility.pdb

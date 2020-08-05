@@ -1,0 +1,9 @@
+D:\GitHub\CSharp\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+D:\GitHub\CSharp\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+D:\GitHub\CSharp\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+D:\GitHub\CSharp\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+D:\GitHub\CSharp\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+D:\GitHub\CSharp\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+D:\GitHub\CSharp\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+D:\GitHub\CSharp\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
