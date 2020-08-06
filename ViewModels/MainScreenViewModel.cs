@@ -1,4 +1,5 @@
-﻿using System.Windows.Input;
+﻿using System.Windows;
+using System.Windows.Input;
 using Utility;
 
 namespace ViewModels
@@ -19,7 +20,7 @@ namespace ViewModels
         }
         public void showData()
         {
-           
+            MessageBox.Show(Text);
         }
 
     }

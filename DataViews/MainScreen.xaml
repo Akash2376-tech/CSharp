@@ -11,7 +11,7 @@
     </UserControl.DataContext>
     <Grid>
         <Button Content="Click" Command="{Binding Print}" HorizontalAlignment="Left" Margin="123,312,0,0" VerticalAlignment="Top" Width="75"/>        
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="123,193,0,0" TextWrapping="Wrap" Text="{Binding Text, UpdateSourceTrigger=PropertyChanged,Mode=OneWay}" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="123,193,0,0" TextWrapping="Wrap" Text="{Binding Text, UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </UserControl>
